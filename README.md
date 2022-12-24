@@ -39,7 +39,7 @@
 - Azure VM
 - nodeJS
 - Azure Media Service
-- AWS S3
+- AWS RDS (MySQL)
 - Load balancing
 
 ---
